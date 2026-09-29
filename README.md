@@ -15,4 +15,4 @@ This project is inspired by a real NCRP cyber fraud case where Rs. 4169 was earm
 python expense_tracker.py
 
 ## Made By
-Leelasri - CSE Student
+Sunanda - CSE Student
